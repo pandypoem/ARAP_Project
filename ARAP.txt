@@ -1,1 +1,1 @@
-Hello if you can read this , that mean git cmd work
+Hello if you can see this , that mean you read edit file
